@@ -1,2 +1,2 @@
 # Udacity-Projetos
-Trabalhos feitos par estudo
+Trabalhos feitos para estudo de Ciência de Dados
